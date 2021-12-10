@@ -1,5 +1,7 @@
 # Network-intrusion-detection
-Network intrusions classification using algorithms- Support Vector Machine (SVM), Decision Tree, Naive Baye, K-Nearest Neighbor (KNN), Logistic Regression and Random Forest.
+Network intrusions classification using algorithms- Support Vector Machine (SVM), Decision Tree, Naive Baye, K-Nearest Neighbor (KNN), Logistic Regression and Random Forest. 
+
+Dataset used is NSL-KDD Dataset
 
 # Prerequisite
 Sklearn,
